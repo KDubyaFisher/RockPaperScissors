@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4011fc3a-48f7-4d65-990d-96359357dfbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RockPaperScissors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="4011fc3a-48f7-4d65-990d-96359357dfbf" name="Changes" comment="init: add initial setup for Rock Paper Scissors project&#10;&#10;- Add ASCII art for rock, paper, and scissors">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +59,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719870114305</updated>
-      <workItem from="1719870116291" duration="1095000" />
+      <workItem from="1719870116291" duration="1473000" />
     </task>
+    <task id="LOCAL-00001" summary="init: add initial setup for Rock Paper Scissors project&#10;&#10;- Add ASCII art for rock, paper, and scissors">
+      <option name="closed" value="true" />
+      <created>1719872151527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719872151527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: add initial setup for Rock Paper Scissors project&#10;&#10;- Add ASCII art for rock, paper, and scissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: add initial setup for Rock Paper Scissors project&#10;&#10;- Add ASCII art for rock, paper, and scissors" />
   </component>
 </project>
